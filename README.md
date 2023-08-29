@@ -3,7 +3,7 @@
 ## Quick Summary
 - 🏫 I'm a student at [WashU](https://cse.wustl.edu/academics/undergraduate/BS-Business-Computer-Science.html), studying the intersection of Computer Science and Business.
 - 👀 I’m interested in machine learning, big-data, and entrepreneurship.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning about machine learning algorithms, advanced data structures, and the business of software.
 - ⚙️ I am a full-stack software engineer, with a focus on web development.
 - 🧠 I am experienced in following... (see [my resume](https://ethan-wickstrom.com/resume.pdf) for more details **[WIP]**)
   - Programming: Typescript, Javascript, PHP, Python, Swift, C, Java, HTML, CSS, SASS 
