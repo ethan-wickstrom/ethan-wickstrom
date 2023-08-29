@@ -20,5 +20,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ethan-wickstrom&repo=ethan-wickstrom&theme=dark)]
 
 ## 📊 Github Stats
-[![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan-wickstrom&count_private=true&show_icons=true&theme=dark)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-wickstrom&layout=compact&theme=dark)]
+![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ethan-wickstrom&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-wickstrom&layout=compact&theme=dark)
