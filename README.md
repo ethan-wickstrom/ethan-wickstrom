@@ -8,7 +8,7 @@
 |    ___|       |  _   ||    __  |   |      _|
 |   |   |   _   | |_|   |   |  | |   |     |_ 
 |___|   |__| |__|_______|___|  |_|___|_______|
-                                                                
+
 Stitching society together, one thread at a time.
 ```
 
