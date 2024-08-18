@@ -1,17 +1,42 @@
-# 👋 Hey there, I'm @ethan-wickstrom!
+# 👋 Hello, World! I'm Ethan Wickstrom
 
-## Quick Summary
-- 🏫 I'm a student at [WashU](https://cse.wustl.edu/academics/undergraduate/BS-Business-Computer-Science.html), studying the intersection of Computer Science and Business.
-- 👀 I’m interested in machine learning, big-data, and entrepreneurship.
-- 🌱 I’m currently learning about machine learning algorithms, advanced data structures, and the business of software.
-- ⚙️ I am a full-stack software engineer, with a focus on web development.
-- 🧠 I am experienced in following... (see [my resume](https://ethan-wickstrom.com/resume.pdf) for more details **[WIP]**)
-  - Programming: Typescript, Javascript, PHP, Go, Python, Swift, C, Java, HTML, CSS, SASS 
-  - Frontend: Node, Vite, Vue 3, Nuxt.js, Electron, Tailwind CSS, React
-  - Backend: Laravel, Flask, gRPC, JSON, JSON: API Specification
-  - Database: SQL (MySQL, Postgres, SQLite), NoSQL (MongoDB), Vector DBs (FAISS, Chroma, Pinecone)
-  - Tools: Git, Bitbucket, Jira, Docker, VS Code, XCode, Postman, TensorFlow, SciKit-Learn, OpenAI
-- 🔨 I love solving creative problems with code, and I'm always looking for new opportunities to learn and grow.
-- 📫 You can reach me at [e.t.wickstrom@wustl.edu](mailto:e.t.wickstrom@wustl.edu).
-- 🧳 Check out my linkedin [here](https://www.linkedin.com/in/ethan-wickstrom/).
-- 🌐 Check out my [personal website](https://ethan-wickstrom.com) to learn more about me **[WIP]**.
+```
+ _______ _______ _______ ______   ___ _______ 
+|       |   _   |  _    |    _ | |   |       |
+|    ___|  |_|  | |_|   |   | || |   |       |
+|   |___|       |       |   |_||_|   |       |
+|    ___|       |  _   ||    __  |   |      _|
+|   |   |   _   | |_|   |   |  | |   |     |_ 
+|___|   |__| |__|_______|___|  |_|___|_______|
+                                                                
+Stitching society together, one thread at a time.
+```
+
+## 🚀 About Me
+
+I build things and invent solutions; sometimes that means starting businesses. Otherwise, I'm a software engineer, full-stack developer, and photographer with over a decade of programming experience. 
+
+Invention and systems played a large role early on for me, whether it was watching How It's Made's feature on snowboards, Sethbling's seemingly impossible Minecraft creations, or even sitting on my dad's shoulders watching him code. However, at age 8, it was finally my turn, so I created my first website. Now, I'm the founder of Fabric, a location-based social media platform fostering real-world connections.
+
+Currently pursuing a Joint Bachelor's in Business and Computer Science at Washington University in St. Louis, I focus on strategy and leadership. You can typically figure out what I'm passionate about by asking yourself "Does this involve creating something or does this involve a dopamine rush?" It's probably obvious by now that I'm passionate about using technology. I like to find problems, no matter how big or small, create meaningful solutions specific to my passions, and drive positive social and technological change. Even better when I can find ways to share my passions and experiences with the world.
+
+My technical toolkit includes:
+• Front-end: HTML, CSS, JavaScript, TypeScript, Vue 3, Nuxt.js, React, Next.js, Electron
+• Back-end: PHP, Python, Go, Laravel, FastAPI, Django, Flask
+• AI and data analysis: PyTorch, TensorFlow, CoreML, MPS/Metal, OpenAI, Anthropic
+• Mobile and desktop: Rust, C++ (general SWE); Swift, SwiftUI, CoreData, SwiftData (iOS/macOS); C# and Unity (Augment Reality)
+• Other: gRPC, RESTful API, WebSockets, Event-Driven Architecture
+
+I approach challenges with tenacity and learn rapidly. When not coding, you'll find me behind a camera, hiking trails, carving slopes, exploring new places, or strumming my guitar. My goal? To harness technology as a tool for enhancing human interaction, not replacing it.
+
+🎓 Studying Business & Computer Science at Washington University in St. Louis
+🌟 Created my first website at 8 years old
+📸 Award-winning photographer (Scholastic Art & Writing Awards)
+🏂 Ripping Snowboarder
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ethan-wickstrom)
+- 🌍 [Personal Website](https://www.ethan-wickstrom.com)
+
+Remember: The best code tells a story. What's yours?
